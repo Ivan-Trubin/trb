@@ -1,3 +1,6 @@
+<!-- page.svelte -->
 <h1>Блог</h1>
-
-todo...
+<!-- todo... -->
+<script>
+    import { routes } from "./blog/routes";
+</script>
