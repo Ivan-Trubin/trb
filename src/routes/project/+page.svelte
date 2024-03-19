@@ -24,12 +24,12 @@
         max-width: 800px;
         padding: 0 20px;
     }
-    .blogposts {
+    .apps {
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-gap: 20px;
     }
-    .post {
+    .app {
         border: 1px solid #ddd;
         padding: 10px;
         box-shadow: 0 0 10px #eee;
